@@ -3,207 +3,552 @@
   <channel>
     <title>The AI Pravda</title>
     <description>Generative AI will change the world as we know it. Let's get prepared.</description>
-    <link>https://yourusername.github.io/your-blog</link>
-    <atom:link href="https://yourusername.github.io/your-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://mikael-gorsky.github.io/TheAIPravda</link>
+    <atom:link href="https://mikael-gorsky.github.io/TheAIPravda/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
     <lastBuildDate>Mon, 02 Jun 2025 13:00:00 +0000</lastBuildDate>
     <generator>GitHub Pages</generator>
     <language>en-us</language>
-    <managingEditor>mikael.alemu.gorsky@example.com (Mikael Alemu Gorsky)</managingEditor>
     
-    <item>
-      <title>Yabebal Fantaye: AI must work for you - impact on software education</title>
-      <description><![CDATA[Discussion on AI's transformative impact on software education and development practices, featuring insights from Yabebal Fantaye on how developers and educators can harness AI tools effectively.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/yabebal-fantaye-ai-must-work-you-impact-software-education-gorsky-4b8sf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/yabebal-fantaye-ai-must-work-you-impact-software-education-gorsky-4b8sf.html</guid>
-    </item>
+    <!-- ALL articles from your screenshots -->
     
+    <!-- From first screenshot -->
     <item>
-      <title>Y Combinator's love for generative AI</title>
-      <description><![CDATA[Analysis of Y Combinator's investment trends and enthusiasm for generative AI startups, exploring how the prestigious accelerator is shaping the future of AI entrepreneurship.]]></description>
+      <title>Our AI friends, confidants, and profiteers</title>
+      <description><![CDATA[Examining the complex relationships humans are developing with AI systems.]]></description>
       <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/y-combinator-love-generative-ai-mikael-alemu-gorsky-amluf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/y-combinator-love-generative-ai-mikael-alemu-gorsky-amluf.html</guid>
-    </item>
-    
-    <item>
-      <title>Window into the mind of AI</title>
-      <description><![CDATA[Exploring the inner workings and decision-making processes of artificial intelligence systems, providing insights into how AI models process information and make decisions.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/window-mind-ai-mikael-alemu-gorsky-sttyf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/window-mind-ai-mikael-alemu-gorsky-sttyf.html</guid>
-    </item>
-    
-    <item>
-      <title>When AGI gets too smart</title>
-      <description><![CDATA[Examining the potential challenges and implications of artificial general intelligence surpassing human capabilities, and what safeguards we need to implement.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/when-agi-gets-too-smart-mikael-alemu-gorsky-infhf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/when-agi-gets-too-smart-mikael-alemu-gorsky-infhf.html</guid>
-    </item>
-    
-    <item>
-      <title>What photo, who human, which company?</title>
-      <description><![CDATA[Investigating the blurred lines between AI-generated and human-created content in the digital age, and the implications for authenticity and trust.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/what-photo-who-human-company-mikael-alemu-gorsky-ckqef.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/what-photo-who-human-company-mikael-alemu-gorsky-ckqef.html</guid>
-    </item>
-    
-    <item>
-      <title>We're dealing with something unbelievably transformative and powerful</title>
-      <description><![CDATA[Reflections on the unprecedented scale and impact of current AI developments, and why we need to take the AI revolution seriously.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/were-dealing-something-unbelievably-transformative-powerful-gorsky-pkw3e.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/were-dealing-something-unbelievably-transformative-powerful-gorsky-pkw3e.html</guid>
-    </item>
-    
-    <item>
-      <title>War and peace in the AI era</title>
-      <description><![CDATA[Examining how artificial intelligence is reshaping global conflicts and peacekeeping efforts, and the geopolitical implications of AI advancement.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/war-peace-mikael-alemu.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/war-peace-mikael-alemu.html</guid>
-    </item>
-    
-    <item>
-      <title>US-Israel tech relations under Trump 2</title>
-      <description><![CDATA[Analysis of technology partnerships and diplomatic relations between the US and Israel during the second Trump administration.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/us-israel-tech-relations-under-trump-2-mikael-alemu-gorsky-weu8f.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/us-israel-tech-relations-under-trump-2-mikael-alemu-gorsky-weu8f.html</guid>
-    </item>
-    
-    <item>
-      <title>Toward universal AI literacy</title>
-      <description><![CDATA[Advocating for widespread AI education and digital literacy initiatives to prepare society for the AI-driven future.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/toward-universal-ai-literacy-mikael-alemu-gorsky-ix0gf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/toward-universal-ai-literacy-mikael-alemu-gorsky-ix0gf.html</guid>
-    </item>
-    
-    <item>
-      <title>Stephen Fry on AI</title>
-      <description><![CDATA[Insights and perspectives from Stephen Fry on artificial intelligence and its cultural impact, exploring the intersection of technology and humanity.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/stephen-fry-ai-mikael-alemu-gorsky-97xif.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/stephen-fry-ai-mikael-alemu-gorsky-97xif.html</guid>
-    </item>
-    
-    <item>
-      <title>AI sovereignty</title>
-      <description><![CDATA[Exploring national strategies for maintaining independence and control in the AI landscape, and the importance of technological sovereignty.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/sovereignty-ai-mikael-alemu-gorsky-nthjf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/sovereignty-ai-mikael-alemu-gorsky-nthjf.html</guid>
-    </item>
-    
-    <item>
-      <title>The soul of Claude</title>
-      <description><![CDATA[Deep dive into the personality and capabilities of Anthropic's Claude AI assistant, exploring what makes different AI models unique.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/soul-claude-mikael-alemu-gorsky-zax9f.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/soul-claude-mikael-alemu-gorsky-zax9f.html</guid>
-    </item>
-    
-    <item>
-      <title>Software development trends 2025</title>
-      <description><![CDATA[Comprehensive overview of emerging trends and technologies in software development, including AI-assisted coding and new frameworks.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/software-development-trends-2025-mikael-alemu-gorsky-yexef.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/software-development-trends-2025-mikael-alemu-gorsky-yexef.html</guid>
-    </item>
-    
-    <item>
-      <title>Seven popular misconceptions about AI in education</title>
-      <description><![CDATA[Debunking common myths and misunderstandings about AI's role in educational settings, providing clarity for educators and policymakers.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/seven-popular-misconceptions-ai-education-mikael-alemu-gorsky-uirhe.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/seven-popular-misconceptions-ai-education-mikael-alemu-gorsky-uirhe.html</guid>
-    </item>
-    
-    <item>
-      <title>Schmidt Science supports AI safety research</title>
-      <description><![CDATA[Coverage of philanthropic efforts to advance AI safety and responsible development through the Schmidt Science Fellows program.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/schmidt-science-supports-ai-safety-research-mikael-alemu-gorsky-javm1.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/schmidt-science-supports-ai-safety-research-mikael-alemu-gorsky-javm1.html</guid>
-    </item>
-    
-    <item>
-      <title>Scaling laws meet hunger for clickbait</title>
-      <description><![CDATA[Critical analysis of how AI scaling laws are portrayed in popular media and the disconnect between research and reporting.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/scaling-laws-meet-hunger-clickbait-mikael-alemu-gorsky-2zb6f.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/scaling-laws-meet-hunger-clickbait-mikael-alemu-gorsky-2zb6f.html</guid>
-    </item>
-    
-    <item>
-      <title>Responsible AI: from theory to practice</title>
-      <description><![CDATA[Practical approaches to implementing responsible AI principles in real-world applications and organizational contexts.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/responsible-ai-from-theory-practice-mikael-alemu-gorsky-d6ktf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/responsible-ai-from-theory-practice-mikael-alemu-gorsky-d6ktf.html</guid>
-    </item>
-    
-    <item>
-      <title>Preventing AI apocalypse</title>
-      <description><![CDATA[Strategies and safeguards for mitigating existential risks from artificial intelligence development and deployment.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/preventing-ai-apocalypse-mikael-alemu-gorsky-j45ff.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/preventing-ai-apocalypse-mikael-alemu-gorsky-j45ff.html</guid>
-    </item>
-    
-    <item>
-      <title>Peter Lee: AI learning from nature</title>
-      <description><![CDATA[Exploring biomimetic approaches to artificial intelligence development with insights from Microsoft's Peter Lee.]]></description>
-      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/peters-lee-ai-learning-from-nature-mikael-alemu-gorsky-1tm2f.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/peters-lee-ai-learning-from-nature-mikael-alemu-gorsky-1tm2f.html</guid>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/our-ai-friends-confidants-profiteers-mikael-alemu-gorsky-k1txf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/our-ai-friends-confidants-profiteers-mikael-alemu-gorsky-k1txf.html</guid>
     </item>
     
     <item>
       <title>Papert's revenge: AI revolution in education</title>
-      <description><![CDATA[How AI is finally fulfilling Seymour Papert's vision of constructionist learning and transforming educational paradigms.]]></description>
+      <description><![CDATA[How AI is finally fulfilling Seymour Papert's vision of constructionist learning.]]></description>
       <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/papaerts-revenge-ai-revolution-education-mikael-alemu-gorsky-peo3f.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/papaerts-revenge-ai-revolution-education-mikael-alemu-gorsky-peo3f.html</guid>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/papaerts-revenge-ai-revolution-education-mikael-alemu-gorsky-peo3f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/papaerts-revenge-ai-revolution-education-mikael-alemu-gorsky-peo3f.html</guid>
     </item>
     
     <item>
-      <title>Our AI friends, confidants, and profiteers</title>
-      <description><![CDATA[Examining the complex relationships humans are developing with AI systems and the business models emerging around AI companionship.]]></description>
+      <title>Peter Lee: AI learning from nature</title>
+      <description><![CDATA[Exploring biomimetic approaches to artificial intelligence development.]]></description>
       <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/our-ai-friends-confidants-profiteers-mikael-alemu-gorsky-k1txf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/our-ai-friends-confidants-profiteers-mikael-alemu-gorsky-k1txf.html</guid>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/peter-lee-ai-learning-from-nature-mikael-alemu-gorsky-1tm2f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/peter-lee-ai-learning-from-nature-mikael-alemu-gorsky-1tm2f.html</guid>
     </item>
     
     <item>
-      <title>AI Safety Report 2025</title>
-      <description><![CDATA[The International AI Safety Report 2025 was published in January 2025 as the first full edition following an interim version released in May 2024. Comprehensive analysis of AI capabilities, risks, and risk management strategies.]]></description>
-      <pubDate>Thu, 06 Feb 2025 05:45:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/ai-safety-report-2025-mikael-alemu-gorsky-cyzsf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/ai-safety-report-2025-mikael-alemu-gorsky-cyzsf.html</guid>
+      <title>Preventing AI apocalypse</title>
+      <description><![CDATA[Strategies and safeguards for mitigating existential risks from artificial intelligence.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/preventing-ai-apocalypse-mikael-alemu-gorsky-j45ff.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/preventing-ai-apocalypse-mikael-alemu-gorsky-j45ff.html</guid>
+    </item>
+    
+    <item>
+      <title>Responsible AI: from theory to practice</title>
+      <description><![CDATA[Practical approaches to implementing responsible AI principles.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/responsible-ai-from-theory-practice-mikael-alemu-gorsky-d6ktf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/responsible-ai-from-theory-practice-mikael-alemu-gorsky-d6ktf.html</guid>
+    </item>
+    
+    <item>
+      <title>Scaling laws meet hunger for clickbait</title>
+      <description><![CDATA[Critical analysis of how AI scaling laws are portrayed in popular media.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/scaling-laws-meet-hunger-clickbait-mikael-alemu-gorsky-2zb6f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/scaling-laws-meet-hunger-clickbait-mikael-alemu-gorsky-2zb6f.html</guid>
+    </item>
+    
+    <item>
+      <title>Schmidt Science supports AI safety research</title>
+      <description><![CDATA[Coverage of philanthropic efforts to advance AI safety.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/schmidt-science-supports-ai-safety-research-mikael-alemu-gorsky-javm1.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/schmidt-science-supports-ai-safety-research-mikael-alemu-gorsky-javm1.html</guid>
+    </item>
+    
+    <item>
+      <title>Seven popular misconceptions about AI in education</title>
+      <description><![CDATA[Debunking common myths about AI's role in educational settings.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/seven-popular-misconceptions-ai-education-mikael-alemu-gorsky-uirhe.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/seven-popular-misconceptions-ai-education-mikael-alemu-gorsky-uirhe.html</guid>
+    </item>
+    
+    <item>
+      <title>Software development trends 2025</title>
+      <description><![CDATA[Overview of emerging trends in software development.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/software-development-trends-2025-mikael-alemu-gorsky-yexef.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/software-development-trends-2025-mikael-alemu-gorsky-yexef.html</guid>
+    </item>
+    
+    <item>
+      <title>The soul of Claude</title>
+      <description><![CDATA[Deep dive into Anthropic's Claude AI assistant.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/soul-claude-mikael-alemu-gorsky-zax9f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/soul-claude-mikael-alemu-gorsky-zax9f.html</guid>
+    </item>
+    
+    <item>
+      <title>AI sovereignty</title>
+      <description><![CDATA[National strategies for AI independence and control.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/sovereignty-ai-mikael-alemu-gorsky-nthjf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/sovereignty-ai-mikael-alemu-gorsky-nthjf.html</guid>
+    </item>
+    
+    <item>
+      <title>Stephen Fry on AI</title>
+      <description><![CDATA[Stephen Fry's perspectives on artificial intelligence.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/stephen-fry-ai-mikael-alemu-gorsky-97xif.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/stephen-fry-ai-mikael-alemu-gorsky-97xif.html</guid>
+    </item>
+    
+    <item>
+      <title>Toward universal AI literacy</title>
+      <description><![CDATA[Advocating for widespread AI education initiatives.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/toward-universal-ai-literacy-mikael-alemu-gorsky-ix0gf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/toward-universal-ai-literacy-mikael-alemu-gorsky-ix0gf.html</guid>
+    </item>
+    
+    <item>
+      <title>US-Israel tech relations under Trump 2</title>
+      <description><![CDATA[Analysis of US-Israel technology partnerships.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/us-israel-tech-relations-under-trump-2-mikael-alemu-gorsky-weu8f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/us-israel-tech-relations-under-trump-2-mikael-alemu-gorsky-weu8f.html</guid>
+    </item>
+    
+    <item>
+      <title>War and peace in the AI era</title>
+      <description><![CDATA[How AI is reshaping global conflicts.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/war-peace-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/war-peace-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>We're dealing with something unbelievably transformative and powerful</title>
+      <description><![CDATA[Reflections on AI's unprecedented impact.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/were-dealing-something-unbelievably-transformative-powerful-gorsky-pkw3e.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/were-dealing-something-unbelievably-transformative-powerful-gorsky-pkw3e.html</guid>
+    </item>
+    
+    <item>
+      <title>What photo, who human, which company?</title>
+      <description><![CDATA[AI-generated vs human-created content distinctions.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/what-photo-who-human-company-mikael-alemu-gorsky-ckqef.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/what-photo-who-human-company-mikael-alemu-gorsky-ckqef.html</guid>
+    </item>
+    
+    <item>
+      <title>When AGI gets too smart</title>
+      <description><![CDATA[Challenges of artificial general intelligence.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/when-agi-gets-too-smart-mikael-alemu-gorsky-infhf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/when-agi-gets-too-smart-mikael-alemu-gorsky-infhf.html</guid>
+    </item>
+    
+    <item>
+      <title>Window into the mind of AI</title>
+      <description><![CDATA[Exploring AI decision-making processes.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/window-mind-ai-mikael-alemu-gorsky-sttyf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/window-mind-ai-mikael-alemu-gorsky-sttyf.html</guid>
+    </item>
+    
+    <item>
+      <title>Y Combinator's love for generative AI</title>
+      <description><![CDATA[Y Combinator's AI investment trends.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/y-combinator-love-generative-ai-mikael-alemu-gorsky-amluf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/y-combinator-love-generative-ai-mikael-alemu-gorsky-amluf.html</guid>
+    </item>
+    
+    <item>
+      <title>Yabebal Fantaye: AI must work for you - impact on software education</title>
+      <description><![CDATA[AI's impact on software education.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/yabebal-fantaye-ai-must-work-you-impact-software-education-gorsky-4b8sf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/yabebal-fantaye-ai-must-work-you-impact-software-education-gorsky-4b8sf.html</guid>
+    </item>
+    
+    <!-- From second screenshot -->
+    <item>
+      <title>3 great ideas and 2 small hints from Masayoshi Son</title>
+      <description><![CDATA[Insights from SoftBank's founder on AI investment.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/3-great-ideas-2-small-hints-from-masayoshi-son-plus-comments-gorsky-szptf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/3-great-ideas-2-small-hints-from-masayoshi-son-plus-comments-gorsky-szptf.html</guid>
+    </item>
+    
+    <item>
+      <title>E&E millions: leaders in AI-first schools</title>
+      <description><![CDATA[Leaders transforming schools with AI-first approaches.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/e-e-millions-leaders-ai-first-schools-mikael-alemu-gorsky-scorf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/e-e-millions-leaders-ai-first-schools-mikael-alemu-gorsky-scorf.html</guid>
+    </item>
+    
+    <item>
+      <title>75% students want to use AI for future work, only 4% now</title>
+      <description><![CDATA[Gap between student aspirations and current AI usage.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/75-students-want-use-ai-future-work-only-4-now-mikael-alemu-gorsky-4amlf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/75-students-want-use-ai-future-work-only-4-now-mikael-alemu-gorsky-4amlf.html</guid>
+    </item>
+    
+    <item>
+      <title>Agentic AI vs agents: fake battle</title>
+      <description><![CDATA[Debunking artificial distinctions in AI terminology.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/agentic-ai-vs-agents-fake-battle-mikael-alemu-gorsky-emqef.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/agentic-ai-vs-agents-fake-battle-mikael-alemu-gorsky-emqef.html</guid>
+    </item>
+    
+    <item>
+      <title>AI business and primal animals</title>
+      <description><![CDATA[AI and fundamental business instincts.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-business-primal-animals-mikael-alemu-gorsky-6jvfc.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-business-primal-animals-mikael-alemu-gorsky-6jvfc.html</guid>
+    </item>
+    
+    <item>
+      <title>AI-powered medical diagnosis: very good and cheap</title>
+      <description><![CDATA[AI revolutionizing medical diagnosis.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-powered-medical-diagnosis-very-good-cheap-mikael-alemu-gorsky-7fasf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-powered-medical-diagnosis-very-good-cheap-mikael-alemu-gorsky-7fasf.html</guid>
     </item>
     
     <item>
       <title>AI Revolution: students get it, institutions don't. And what does it mean for Ethiopia?</title>
-      <description><![CDATA[In 2017 Andrew Ng from Stanford AI Lab said: "AI is the new electricity. Just as electricity transformed almost everything 100 years ago,… every industry will transform in the next several years." Analysis of how students are embracing AI while institutions lag behind.]]></description>
+      <description><![CDATA[Students embracing AI while institutions lag behind.]]></description>
       <pubDate>Fri, 28 Feb 2025 05:45:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/ai-revolution-students-get-institutions-dont-what-does-gorsky-ehtnf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/ai-revolution-students-get-institutions-dont-what-does-gorsky-ehtnf.html</guid>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-revolution-students-get-institutions-dont-what-does-gorsky-ehtnf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-revolution-students-get-institutions-dont-what-does-gorsky-ehtnf.html</guid>
+    </item>
+    
+    <item>
+      <title>AI Safety Report 2025</title>
+      <description><![CDATA[International AI Safety Report analysis.]]></description>
+      <pubDate>Thu, 06 Feb 2025 05:45:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-safety-report-2025-mikael-alemu-gorsky-cyzsf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-safety-report-2025-mikael-alemu-gorsky-cyzsf.html</guid>
     </item>
     
     <item>
       <title>AI specimen: from hype to harmony</title>
-      <description><![CDATA[The term "AI agent" often creates a false framework that misrepresents the nature of artificial intelligence. Introducing the concept of "AI specimens" as a better framework for understanding agentic AI systems.]]></description>
+      <description><![CDATA[Introducing AI specimens framework.]]></description>
       <pubDate>Sat, 09 Nov 2024 19:23:00 +0000</pubDate>
-      <link>https://yourusername.github.io/your-blog/articles/ai-specimen-from-hype-harmony-mikael-alemu-gorsky-7iemf.html</link>
-      <guid isPermaLink="true">https://yourusername.github.io/your-blog/articles/ai-specimen-from-hype-harmony-mikael-alemu-gorsky-7iemf.html</guid>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-specimen-from-hype-harmony-mikael-alemu-gorsky-7iemf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-specimen-from-hype-harmony-mikael-alemu-gorsky-7iemf.html</guid>
     </item>
     
-    <!-- Additional articles continue with similar structure -->
+    <item>
+      <title>AI vs thinking: two takes</title>
+      <description><![CDATA[AI cognition vs human thinking processes.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ai-vs-thinking-two-takes-mikael-alemu-gorsky-hugmf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ai-vs-thinking-two-takes-mikael-alemu-gorsky-hugmf.html</guid>
+    </item>
+    
+    <item>
+      <title>Amanda Askell: I avoid lying in AI models</title>
+      <description><![CDATA[AI ethics and truthfulness with Amanda Askell.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/amanda-askell-i-avoid-lying-ai-models-mikael-alemu-gorsky-gj3rf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/amanda-askell-i-avoid-lying-ai-models-mikael-alemu-gorsky-gj3rf.html</guid>
+    </item>
+    
+    <item>
+      <title>AI model trends 2025</title>
+      <description><![CDATA[Emerging AI model developments.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/amodel-2025-mikael-alemu-gorsky-jmcff.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/amodel-2025-mikael-alemu-gorsky-jmcff.html</guid>
+    </item>
+    
+    <item>
+      <title>Amodei: rulers of AI</title>
+      <description><![CDATA[The Amodei family's influence on AI.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/amodei-rulers-ai-mikael-alemu-gorsky.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/amodei-rulers-ai-mikael-alemu-gorsky.html</guid>
+    </item>
+    
+    <item>
+      <title>Andrej Karpathy: 8 big ideas</title>
+      <description><![CDATA[Key insights from Andrej Karpathy.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/andrej-karpathy-8-big-ideas-mikael-alemu-gorsky-eckuf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/andrej-karpathy-8-big-ideas-mikael-alemu-gorsky-eckuf.html</guid>
+    </item>
+    
+    <item>
+      <title>Claude brothers: psychological and behavioral assessment</title>
+      <description><![CDATA[Analysis of Claude AI personality traits.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/claude-brothers-psychological-behavioral-assessment-gorsky-ioybf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/claude-brothers-psychological-behavioral-assessment-gorsky-ioybf.html</guid>
+    </item>
+    
+    <item>
+      <title>Comprehensive review of Ethiopian foreign exchange directive</title>
+      <description><![CDATA[Analysis of Ethiopia's foreign exchange policies.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/comprehensive-review-ethiopian-foreign-exchange-directive-ebxgef.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/comprehensive-review-ethiopian-foreign-exchange-directive-ebxgef.html</guid>
+    </item>
+    
+    <item>
+      <title>Dan Layug and Vlad Dugin: MetroGrids green NPV</title>
+      <description><![CDATA[Sustainable urban infrastructure technologies.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/dan-layug-vlad-dugin-metrogrids-green-npv-positi-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/dan-layug-vlad-dugin-metrogrids-green-npv-positi-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Daniela and Dario Amodei: royal family of AI</title>
+      <description><![CDATA[Profile of the Amodei siblings.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/daniela-dario-amodei-royal-family-ai-mikael-alemu-gorsky-4hshe.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/daniela-dario-amodei-royal-family-ai-mikael-alemu-gorsky-4hshe.html</guid>
+    </item>
+    
+    <item>
+      <title>Dario Amodei at Davos: mind machine interview with industry leader</title>
+      <description><![CDATA[Anthropic's CEO on AI safety and future.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/dario-amodei-davos-mind-machine-interview-industry-leader-gorsky-tfree.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/dario-amodei-davos-mind-machine-interview-industry-leader-gorsky-tfree.html</guid>
+    </item>
+    
+    <item>
+      <title>Demis Hassabis: strange futures lie ahead</title>
+      <description><![CDATA[DeepMind's founder on AI's future.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/demis-hassabis-strange-futures-lie-ahead-mikael-alemu-gorsky-nopaf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/demis-hassabis-strange-futures-lie-ahead-mikael-alemu-gorsky-nopaf.html</guid>
+    </item>
+    
+    <item>
+      <title>Duolingo goes AI: you must too</title>
+      <description><![CDATA[Duolingo's AI integration for personalized learning.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/duolingo-goes-ai-you-must-mikael-alemu-gorsky-lde5f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/duolingo-goes-ai-you-must-mikael-alemu-gorsky-lde5f.html</guid>
+    </item>
+    
+    <item>
+      <title>Electric 3-wheeler changes lives in Ethiopian towns</title>
+      <description><![CDATA[Impact of electric vehicles in Ethiopia.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/electric-3-wheeler-change-lives-ethiopian-towns-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/electric-3-wheeler-change-lives-ethiopian-towns-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Energy development</title>
+      <description><![CDATA[Sustainable energy development strategies.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/energy-development-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/energy-development-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Energy geopolitics</title>
+      <description><![CDATA[Global energy markets and international relations.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/energy-geopolitics-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/energy-geopolitics-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Energy and love</title>
+      <description><![CDATA[Energy, sustainability, and human relationships.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/energy-love-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/energy-love-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Energy war: Ethiopia's electricity</title>
+      <description><![CDATA[Ethiopia's energy resources and geopolitics.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/energy-war-ethiopia-electricity-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/energy-war-ethiopia-electricity-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Ethiopia: yet another energy powerhouse in Africa</title>
+      <description><![CDATA[Ethiopia's energy potential and development.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ethiopia-yet-energy-powerhouse-africa-mikael-alemu.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ethiopia-yet-energy-powerhouse-africa-mikael-alemu.html</guid>
+    </item>
+    
+    <item>
+      <title>Eric Olander: perspectives on Africa data sovereignty</title>
+      <description><![CDATA[Data sovereignty in African markets.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/eric-olander-perspectives-africa-data-sovereignty-gorsky-5dfof.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/eric-olander-perspectives-africa-data-sovereignty-gorsky-5dfof.html</guid>
+    </item>
+    
+    <item>
+      <title>Evolve or extinct: new rule for higher education</title>
+      <description><![CDATA[Universities adapting to the AI era.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/evolve-extinct-new-rule-higher-education-mikael-alemu-gorsky-mfkof.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/evolve-extinct-new-rule-higher-education-mikael-alemu-gorsky-mfkof.html</guid>
+    </item>
+    
+    <item>
+      <title>From Israel AI Club to investor club</title>
+      <description><![CDATA[Evolution of AI communities in Israel.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/from-israel-ai-club-investor-club-mikael-alemu-gorsky-jo0f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/from-israel-ai-club-investor-club-mikael-alemu-gorsky-jo0f.html</guid>
+    </item>
+    
+    <item>
+      <title>Generative AI super smart: wrote a fairytale</title>
+      <description><![CDATA[AI's creative capabilities in storytelling.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/generative-ai-super-smart-wrote-fairytale-mikael-alemu-gorsky-op0if.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/generative-ai-super-smart-wrote-fairytale-mikael-alemu-gorsky-op0if.html</guid>
+    </item>
+    
+    <item>
+      <title>I asked AI chatbots to analyze Alice in Wonderland</title>
+      <description><![CDATA[Comparative AI analysis of classic literature.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/i-asked-ai-chatbots-analyze-alice-wonderland-mikael-alemu-gorsky-mz3vf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/i-asked-ai-chatbots-analyze-alice-wonderland-mikael-alemu-gorsky-mz3vf.html</guid>
+    </item>
+    
+    <item>
+      <title>Interview with Kelly Smith</title>
+      <description><![CDATA[Insights on AI development and industry trends.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/interview-with-kelly-smith-mikael-alemu-gorsky-4tijf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/interview-with-kelly-smith-mikael-alemu-gorsky-4tijf.html</guid>
+    </item>
+    
+    <item>
+      <title>JD Vance at AI Action Summit</title>
+      <description><![CDATA[Political perspectives on AI policy.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/jd-vance-ai-action-summit-mikael-alemu-gorsky-2gfof.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/jd-vance-ai-action-summit-mikael-alemu-gorsky-2gfof.html</guid>
+    </item>
+    
+    <item>
+      <title>Legal regulation of AI in Europe (mid-2023)</title>
+      <description><![CDATA[Evolution of AI regulation in Europe.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/legal-regulation-ai-europe-mid-2023-mikael-alemu-gorsky-yoz9e.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/legal-regulation-ai-europe-mid-2023-mikael-alemu-gorsky-yoz9e.html</guid>
+    </item>
+    
+    <item>
+      <title>Legal regulation of AI in Europe</title>
+      <description><![CDATA[Current state of AI regulation in EU.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/legal-regulation-ai-europe-mikael-alemu-gorsky-1f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/legal-regulation-ai-europe-mikael-alemu-gorsky-1f.html</guid>
+    </item>
+    
+    <item>
+      <title>Let's destroy all bitcoin mining</title>
+      <description><![CDATA[Environmental concerns of cryptocurrency mining.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/lets-destroy-all-bitcoin-mining-mikael-alemu-gorsky-k0ksf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/lets-destroy-all-bitcoin-mining-mikael-alemu-gorsky-k0ksf.html</guid>
+    </item>
+    
+    <item>
+      <title>LLM James Bond: loyal and cunning</title>
+      <description><![CDATA[AI personality traits and behavioral patterns.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/llm-james-bond-loyal-cunning-mikael-alemu-gorsky-vpyme.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/llm-james-bond-loyal-cunning-mikael-alemu-gorsky-vpyme.html</guid>
+    </item>
+    
+    <item>
+      <title>Meet Jeff the teacher</title>
+      <description><![CDATA[Educator embracing AI in the classroom.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/meet-jeff-teacher-mikael-alemu-gorsky-f8h8f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/meet-jeff-teacher-mikael-alemu-gorsky-f8h8f.html</guid>
+    </item>
+    
+    <item>
+      <title>Microsoft wants future scientists</title>
+      <description><![CDATA[Microsoft's vision for AI-assisted research.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/microsoft-wants-future-scientists-mikael-alemu-gorsky-mnv9f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/microsoft-wants-future-scientists-mikael-alemu-gorsky-mnv9f.html</guid>
+    </item>
+    
+    <item>
+      <title>Mike Krieger: Anthropic's head of product</title>
+      <description><![CDATA[Insights on AI product development.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/mike-krieger-anthropics-head-product-mikael-alemu-gorsky-vwg0f.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/mike-krieger-anthropics-head-product-mikael-alemu-gorsky-vwg0f.html</guid>
+    </item>
+    
+    <item>
+      <title>Missed opportunity: Dario Amodei at AI Action Summit</title>
+      <description><![CDATA[Analysis of AI Action Summit insights.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/missed-opportunity-dario-amodei-ai-action-summit-mikael-alemu-gorsky-ryref.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/missed-opportunity-dario-amodei-ai-action-summit-mikael-alemu-gorsky-ryref.html</guid>
+    </item>
+    
+    <item>
+      <title>National AI priorities: Light, Lorber, Shilats call to action</title>
+      <description><![CDATA[Israeli leaders on national AI strategy.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/national-ai-priorities-light-lorber-shilats-call-action-gorsky-naraf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/national-ai-priorities-light-lorber-shilats-call-action-gorsky-naraf.html</guid>
+    </item>
+    
+    <item>
+      <title>Open Developer Day 2023</title>
+      <description><![CDATA[Insights from Open Developer Day 2023.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/open-developer-day-2023-mikael-alemu-gorsky-weige.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/open-developer-day-2023-mikael-alemu-gorsky-weige.html</guid>
+    </item>
+    
+    <item>
+      <title>OpenAI Developer Day insights</title>
+      <description><![CDATA[Key announcements from OpenAI's Developer Day.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/openai-developer-day-mikael-alemu-gorsky-1s2ff.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/openai-developer-day-mikael-alemu-gorsky-1s2ff.html</guid>
+    </item>
+    
+    <item>
+      <title>Ori Goshen: building reliable AI systems for enterprise</title>
+      <description><![CDATA[Enterprise AI deployment strategies.]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://mikael-gorsky.github.io/TheAIPravda/articles/ori-goshen-building-reliable-ai-systems-enterprise-gorsky-hvrrf.html</link>
+      <guid isPermaLink="true">https://mikael-gorsky.github.io/TheAIPravda/articles/ori-goshen-building-reliable-ai-systems-enterprise-gorsky-hvrrf.html</guid>
+    </item>
     
   </channel>
 </rss>
