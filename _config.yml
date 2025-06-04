@@ -1,0 +1,14 @@
+yamltitle: "The AI Pravda"
+description: "Generative AI will change the world as we know it. Let's get prepared."
+author: "Mikael Alemu Gorsky"
+url: "https://yourusername.github.io/your-blog"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Exclude files
+exclude:
+  - README.md
